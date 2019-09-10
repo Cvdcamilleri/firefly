@@ -1,2 +1,2 @@
 # firefly
-firefly program
+frontend for https://github.com/Cvdcamilleri/fireflyd
